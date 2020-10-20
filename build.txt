@@ -1,4 +1,5 @@
 displayName = Reveal Revealed Area
 author = Exterminator
-version = 0.4
+version = 0.4.1
+homepage = https://github.com/ExterminatorX99/RevealRevealed
 includeSource = true
