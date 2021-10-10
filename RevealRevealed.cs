@@ -1,8 +1,5 @@
-using Terraria.ModLoader;
+namespace RevealRevealed;
 
-namespace RevealRevealed
+public class RevealRevealed : Mod
 {
-	public class RevealRevealed : Mod
-	{
-	}
 }
