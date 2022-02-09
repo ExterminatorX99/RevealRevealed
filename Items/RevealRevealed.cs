@@ -34,7 +34,7 @@ public class RevealRevealed : ModItem
 
 		for (int x = 0; x < Main.maxTilesX; ++x)
 		for (int y = 0; y < Main.maxTilesY; ++y)
-			if (Main.tile[x, y].type == TileID.Torches)
+			if (Main.tile[x, y].TileType == TileID.Torches)
 				for (int addX = x - radius; addX <= x + radius; addX++)
 				for (int addY = y - radius; addY <= y + radius; addY++)
 				{
