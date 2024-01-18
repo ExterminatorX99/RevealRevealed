@@ -1,0 +1,10 @@
+Items: {
+	RevealRevealed: {
+		DisplayName: Reveal Area
+		Tooltip:
+			'''
+			Reveals map around light torches
+			Made to recover lost map data
+			'''
+	}
+}

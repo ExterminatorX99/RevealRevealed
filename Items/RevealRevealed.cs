@@ -4,12 +4,6 @@ public class RevealRevealed : ModItem
 {
 	public override string Texture => "Terraria/Images/Map_4";
 
-	public override void SetStaticDefaults()
-	{
-		DisplayName.SetDefault("RevealArea");
-		Tooltip.SetDefault("Reveals map around light torches\nMade to recover lost map data");
-	}
-
 	public override void SetDefaults()
 	{
 		Item.width = 32;
